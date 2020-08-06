@@ -8,7 +8,7 @@ Boshkovski T., Kocarev Lj., Cohen-Adad J, Mišić B., Lehéricy S., Stikov N, Ma
 
 # Code and Data
 
-The main code for the connectome analysis is provided in [R1-weighted_connectome.ipynb](R1-weighted_connectome.ipynb). This notebook could be used to reproduce the results in the manuscript.
+The main code for the connectome analysis is provided in [R1-weighted_connectome.ipynb](R1-weighted_connectome.ipynb). This notebook could be used to reproduce the results in the manuscript. You can also explore some of the results via our [plotly dashboard app](https://r1-weighted-connectome.herokuapp.com/).
 
 ## Data
 
