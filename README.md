@@ -19,6 +19,7 @@ The main code for the connectome analysis is provided in [R1-weighted_connectome
 * [atlas_names.mat](atlas_names.mat): Lausanne 2008 node labels and mapping of the nodes to Yeo's and von Economo classes
 
 ## Auxiliary scripts
+
 * [dwi_preprocessing.sh](dwi_preprocessing.sh): Shell script used for preprocessing the diffusion data.
 
 * [medianAlongTracts.py](medianAlongTracts.py): Script to constructs individual connectomes weighted with R1, NOS, and FA, from the diffusion tractography.
